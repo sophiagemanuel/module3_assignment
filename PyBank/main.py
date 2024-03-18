@@ -1,7 +1,7 @@
 # Importing modules and creating a path to the csv file
 import os 
 import csv
-budget_data = os.path.join(os.getcwd(), "PyBank\\budget_data.csv")
+budget_data = os.path.join(os.getcwd(), "budget_data.csv")
 
 #creating our variables
 total_months = 0
