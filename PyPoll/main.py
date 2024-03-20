@@ -1,7 +1,7 @@
 #Creating a pathway to our CSV File
 import os
 import csv
-election_data =  os.path.join("../election_data.csv")
+election_data =  os.path.join("election_data.csv")
 
 #Creating our variables for number of candidates, votes, percentage of votes, and number of votes the candidate recieves
 candidates=[]
