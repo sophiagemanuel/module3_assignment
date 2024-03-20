@@ -1,4 +1,4 @@
-# module3_assignment
+# python_challenge
 Repository containing the completed module three assignment
 
 Folder PyBank contains 
